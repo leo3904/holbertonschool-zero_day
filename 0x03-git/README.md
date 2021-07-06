@@ -1,1 +1,1 @@
-This is the basic git project
+This is the basic git project (Modified from github.com)
